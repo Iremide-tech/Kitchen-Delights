@@ -16,7 +16,7 @@ export const products = [
   },
   {
     name: "2in1 Broom and Dustpan",
-    image: "/broom.jpg",
+    image: "/Broom.jpg",
     description: "Say hello to your cleaning glow up,this compact broom + dustpan set makes sweeping stylish, easy and mess-free.",
   },
 ];
